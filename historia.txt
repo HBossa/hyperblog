@@ -1,2 +1,2 @@
-Esta es la historia del Curso Git
-Nace en Bogota
+Esta es la historia del Curso Git y Github
+Nace en Cali
